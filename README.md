@@ -1,5 +1,5 @@
 <center>
 
-<img src="./google.png" alt="amazon Poster"/>
+<img src="./google.png" alt="google Poster"/>
 
 </center>
